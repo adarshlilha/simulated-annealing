@@ -1,0 +1,61 @@
+#root{
+    color: #6f6f6f;
+}
+#root h5{
+    margin-bottom: 0;
+}
+body{
+    text-align: center;
+}
+p{
+    font-size: 11px;
+}
+span:first-child{
+    color: #F9D248;
+}
+span:nth-child(2){
+    color: #A7F47B;
+}
+span:nth-child(3){
+    color: #ea963e;
+}
+span:nth-child(2){
+    color: #62D9F4;
+}
+span:nth-child(2){
+    color: #C992E0;
+}
+span:last-child{
+    color: #999999;
+}
+.label rect,.label circle{
+    opacity: 0 !important;
+}
+.label text{
+    text-anchor: inherit;
+    font-size: 8px;
+}
+.tick line{
+    opacity: 1;
+    stroke: #ececec;
+}
+.tick text{
+    stroke: none;
+    fill: #6f6f6f;
+    font-size: 12px;
+}
+.yaxis path{
+    visibility: hidden;
+}
+.yaxis g:nth-child(2) text,.yaxis g:last-child text{
+    opacity: 0;
+}
+.yaxis g:nth-child(2) line,.yaxis g:last-child line{
+    stroke: #6F6F6F;
+}
+.xaxis path{
+    visibility: hidden;
+}
+.xaxis .tick line{
+    opacity: 0;
+}
