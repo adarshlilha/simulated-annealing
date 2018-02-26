@@ -5,12 +5,10 @@
 
 > Uses [d3js](https://d3js.org/) for chart generation and [d3fc-label-layout](https://github.com/d3fc/d3fc-label-layout) for removal of label overlaps
 
-## Prerequisites
-      
-- Node.js
-- npm
+#### Check out the hosted version at [https://adarshlilha.github.io/movie-gap-rt/](https://adarshlilha.github.io/movie-gap-rt/)
 
 ## Running Locally
 - `git clone` - clone or download this repository
-- `npm install` - install all the required dependencies
-- `npm start` - start the dev server
+- serve the folder with a local server
+
+>python -m SimpleHTTPServer 8000
