@@ -1,11 +1,19 @@
 #root{
     color: #6f6f6f;
+    /* float: left;
+    width: 82%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column; */
 }
 #root h5{
     margin-bottom: 0;
 }
 body{
     text-align: center;
+    width: 100%;
+    height: 100%;
 }
 p{
     font-size: 11px;
