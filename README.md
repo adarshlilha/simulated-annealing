@@ -9,7 +9,7 @@ Uses [d3js](https://d3js.org/) for chart generation and [Simulated Annealing](ht
 
 With reference from annealing implementation of [d3-labeler](https://github.com/tinker10/D3-Labeler)
 
-#### Check out the hosted version at [https://adarshlilha.github.io/movie-gap-rt/](https://adarshlilha.github.io/movie-gap-rt/)
+#### Check out the hosted version at [https://movie-gap-rt.netlify.app](https://movie-gap-rt.netlify.app)
 
 ## Running Locally
 - `git clone` - clone or download this repository
